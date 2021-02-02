@@ -6,7 +6,7 @@
 
 ## Other models
 
-Downlod them here: <sceneparsing.csail.mit.edu/model/pytorch/>
+Downlod them here: sceneparsing.csail.mit.edu/model/pytorch/
 
 
 `python test.py --imgs image.jpg --cfg config/ade20k-hrnetv2.yaml `
