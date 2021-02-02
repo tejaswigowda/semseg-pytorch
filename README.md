@@ -1,8 +1,8 @@
 # Usage
    
-`./demo_test.sh `
+`./demo_test.sh` (download model)
 
-`python test.py --imgs image.jpg`
+`python test.py --imgs image.jpg` (infer; `--imgs` can be a directory)
 
 
 
