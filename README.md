@@ -1,3 +1,11 @@
+# Usage
+   
+`./demo_test.sh `
+
+`python test.py --imgs image.jpg`
+
+
+
 # Semantic Segmentation on MIT ADE20K dataset in PyTorch
 
 This is a PyTorch implementation of semantic segmentation models on MIT ADE20K scene parsing dataset (http://sceneparsing.csail.mit.edu/).
