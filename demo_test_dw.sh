@@ -2,7 +2,7 @@
 
 # Image and model names
 TEST_IMG=ADE_val_00001519.jpg
-MODEL_NAME=ade20k-resnet50dilated-ppm_deepsup
+MODEL_NAME=ade20k-resnet101dilated-ppm_deepsup
 MODEL_PATH=ckpt/$MODEL_NAME
 RESULT_PATH=./
 

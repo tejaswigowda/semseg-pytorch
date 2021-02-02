@@ -4,6 +4,12 @@
 
 `python test.py --imgs image.jpg` (infer; `--imgs` can be a directory)
 
+## Other models
+
+Downlod them here: <sceneparsing.csail.mit.edu/model/pytorch/>
+
+
+`python test.py --imgs image.jpg --cfg config/ade20k-hrnetv2.yaml `
 
 
 # Semantic Segmentation on MIT ADE20K dataset in PyTorch
